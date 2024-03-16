@@ -35,12 +35,19 @@
 <div sytle='border: solid 2px gray; border-radius: 5px;'> 
   <br>
   <p>Sejam Bem vind@s ao meu perfil. Sou Dabe Santana (@portugolsi). 
-Atualmente estou no curso de Licenciatura em Computação pela Universidade Federal Rural de Pernambuco (UFRPE)
-Já fiz até o 4° Período de Sistemas de informação Pela UFPB.
-Conheço um pouco de Lógica de programação nas seguintes linguagens: Java, Python e Javascript.
-Também conheço um pouco de HTML, CSS e as frameworks Wordpress e Bootstrap.
+  <p>Estudante apaixonado pelo mundo da computação, atualmente cursando Licenciatura em Computação na Universidade Federal Rural de Pernambuco. Com um histórico de três anos de experiência, atuando como instrutor dedicado e apaixonado por ensinar os conceitos fundamentais da computação como lógica de programação, pensamento computacional e o desenvolvimento de jogos, aplicativos, sites e robôs para crianças e adolescentes. </p>
+   <p> Além disso, também sou desenvolvedor web full-stack, especializado na combinação de Django e React, com proficiência em tecnologias complementares, como MySQL, PHP, WordPress, C#, Java e JavaScript. 
+    Busco continuamente expandir meus conhecimentos e habilidades, enquanto contribuo de maneira significativa para projetos desafiadores e inovadores. </p>
 
-Atualmente trabalho em uma escola de Tecnologia, onde ensinamos desenvolvimento de games (Scratch, Construct, GameMaker, Unity),
-desenvolvimento de Apps e robótica (Arduíno). </p>
+
+
+
+
+
+    
+  
+  
+  
+  </p>
   
 </div>
